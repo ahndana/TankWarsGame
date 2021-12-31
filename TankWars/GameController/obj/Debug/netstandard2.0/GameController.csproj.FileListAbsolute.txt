@@ -1,0 +1,16 @@
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\bin\Debug\netstandard2.0\GameController.deps.json
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\bin\Debug\netstandard2.0\GameController.dll
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\bin\Debug\netstandard2.0\GameController.pdb
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\bin\Debug\netstandard2.0\NetworkController.dll
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\bin\Debug\netstandard2.0\WorldModel.dll
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\bin\Debug\netstandard2.0\WorldModel.pdb
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\obj\Debug\netstandard2.0\GameController.csproj.AssemblyReference.cache
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\obj\Debug\netstandard2.0\GameController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\obj\Debug\netstandard2.0\GameController.AssemblyInfoInputs.cache
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\obj\Debug\netstandard2.0\GameController.AssemblyInfo.cs
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\obj\Debug\netstandard2.0\GameController.csproj.CoreCompileInputs.cache
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\obj\Debug\netstandard2.0\GameController.csproj.CopyComplete
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\obj\Debug\netstandard2.0\GameController.dll
+C:\Users\foury\Source\Repos\TankWarsGame\TankWars\GameController\obj\Debug\netstandard2.0\GameController.pdb

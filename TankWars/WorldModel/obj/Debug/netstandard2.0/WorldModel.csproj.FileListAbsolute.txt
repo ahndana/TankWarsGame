@@ -1,0 +1,13 @@
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\bin\Debug\netstandard2.0\WorldModel.deps.json
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\bin\Debug\netstandard2.0\WorldModel.dll
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\bin\Debug\netstandard2.0\WorldModel.pdb
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\obj\Debug\netstandard2.0\WorldModel.csproj.AssemblyReference.cache
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\obj\Debug\netstandard2.0\WorldModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\obj\Debug\netstandard2.0\WorldModel.AssemblyInfoInputs.cache
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\obj\Debug\netstandard2.0\WorldModel.AssemblyInfo.cs
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\obj\Debug\netstandard2.0\WorldModel.csproj.CoreCompileInputs.cache
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\obj\Debug\netstandard2.0\WorldModel.csproj.CopyComplete
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\obj\Debug\netstandard2.0\WorldModel.dll
+C:\Users\foury\source\repos\TankWarsGame\TankWars\WorldModel\obj\Debug\netstandard2.0\WorldModel.pdb
